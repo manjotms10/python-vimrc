@@ -77,6 +77,7 @@ set expandtab                               " expand tabs into spaces
 set autoindent                              " indent when moving to the next line while writing code
 
 set cursorline                              " shows line under the cursor's line
+set cursorcolumn                            " highlight the cursor column
 set showmatch                               " shows matching part of bracket pairs (), [], {}
 
 set enc=utf-8	                            " utf-8 by default
